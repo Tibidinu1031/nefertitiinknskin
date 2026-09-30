@@ -1,6 +1,10 @@
-.sites-runtime/
-node_modules/
+# Local files: not needed on GitHub or on the public website.
+.local-backup/
+.local-tools/
+_site/
 qa/
+node_modules/
+*.zip
 *.tar.gz
-qa.cjs
-prepare-assets.mjs
+.DS_Store
+Thumbs.db
