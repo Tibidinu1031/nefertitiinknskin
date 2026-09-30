@@ -1,0 +1,6 @@
+.sites-runtime/
+node_modules/
+qa/
+*.tar.gz
+qa.cjs
+prepare-assets.mjs
